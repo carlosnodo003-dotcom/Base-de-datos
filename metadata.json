@@ -1,0 +1,6 @@
+{
+  "name": "ScreenCraft - Multi-Screen App Studio",
+  "description": "Interactive multi-screen application with modular screen flows, device preview, and HTML screen importer.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
